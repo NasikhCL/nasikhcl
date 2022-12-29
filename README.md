@@ -31,7 +31,7 @@
 ### :man_technologist: About Me :
 I am a Full Stack Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Teacing Assistant At Coding Ninjas resolving Students Doutes and helping them in their projects
+- :telescope: I’m Worked as a Teacing Assistant At Coding Ninjas, Resolving Students Doubts and helping them in their projects and Other Assignments
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-nasikh_cl-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nasikh-cl/)
 
 <hr/>
