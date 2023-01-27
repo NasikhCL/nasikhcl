@@ -2,6 +2,7 @@
 <div id="header" align="center">
 
 <!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
+![Header](./github-header-image.png)
   
   <div id="badges">
   
@@ -23,10 +24,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=NasikhCL&style=flat-square&color=blue" alt=""/>
 
-<h1>
+<!-- <h1>
   hey,
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Nasikh CL Here
-</h1>
+</h1> -->
 
   
 </div>
@@ -40,6 +41,7 @@ I am a Full Stack Frontend Developer <img src="https://media.giphy.com/media/WUl
 
 - :telescope: I Worked as a Teaching Assistant Intern At Coding Ninjas, Resolving Students Doubts and helping them in their projects and Other Assignments
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-nasikh_cl-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nasikh-cl/)
+- ⚡ Fun fact: Im a Mechangical Engineer By degree
 
 <hr/>
 
