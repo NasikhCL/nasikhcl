@@ -49,17 +49,23 @@ I am a Full Stack Frontend Developer <img src="https://media.giphy.com/media/WUl
 ### :hammer_and_wrench: Languages and Tools :
 <div>
  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=90&color=currentColor" alt="html"/>&nbsp;
+  <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=90&color=currentColor" alt="css" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="100" height="100"/>&nbsp;
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=90&color=currentColor" alt="javascript"/>&nbsp;
+  <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=90&color=currentColor" alt="node"/>&nbsp;
+   <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=90&color=currentColor" alt="react"/>&nbsp;
+   <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=90&color=currentColor" alt="mongodb"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"  alt="Firebase" width="90" height="90"/>&nbsp;
+  <img src="https://icongr.am/devicon/git-original-wordmark.svg?size=90&color=currentColor" alt="git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="70" height="70" />
+          
+  
+          
 </div>
 
 <hr/>
-<div align="center">
+<div align="center"> 
 
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=NasikhCL&theme=navy-gear&border_radius=0)](https://git.io/streak-stats)
