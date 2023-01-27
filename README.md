@@ -8,9 +8,16 @@
   <a href="https://www.linkedin.com/in/nasikh-cl/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.instagram.com/nasikh_cl/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
   <a href="https://twitter.com/nasikh_cl">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  
+    
+    
+  ![Website](https://img.shields.io/website?url=https%3A%2F%2Fnasikhcl.me)
 
 </div>
 
@@ -50,12 +57,16 @@ I am a Full Stack Frontend Developer <img src="https://media.giphy.com/media/WUl
 </div>
 
 <hr/>
+<div align="center">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NasikhCL&layout=compact&theme=vision-friendly-dark)](https://github.com/NasikhCL/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=NasikhCL&theme=navy-gear&border_radius=0)](https://git.io/streak-stats)
 
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NasikhCL&layout=compact&theme=vision-friendly-dark)](https://github.com/NasikhCL/github-readme-stats)
 
+
+ </div>
 
 <!--
 **NasikhCL/nasikhcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
