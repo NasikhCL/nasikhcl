@@ -18,7 +18,7 @@
   
     
     
-  ![Website](https://img.shields.io/website?url=https%3A%2F%2Fnasikhcl.me)
+[WEBSITE](https://nasikhcl.me)
 
 </div>
 
