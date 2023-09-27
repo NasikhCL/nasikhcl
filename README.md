@@ -1,9 +1,9 @@
 
 <div id="header" align="center">
 
-<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
-![Header](./github-header-image.png)
-  
+<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> 
+![Header](./github-header-image.png)?
+  -->
   <div id="badges">
   
   <a href="https://www.linkedin.com/in/nasikh-cl/">
