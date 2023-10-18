@@ -38,7 +38,7 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: Working as Associate developer at iNeuron + PW Skills (Physics Wallah)
+- :telescope: Working as Associate developer at PW Skills (Physics Wallah)
 <!-- - :telescope: I Worked as a Teaching Assistant Intern At Coding Ninjas, Resolving Students Doubts and helping them in their projects and Other Assignments -->
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-nasikh_cl-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nasikh-cl/)
 - ⚡ Fun fact: Im a Mechangical Engineer By degree
