@@ -18,7 +18,7 @@
   
     
     
-[WEBSITE](https://nasikhcl.me)
+[WEBSITE](https://nasikhcl.netlify.app/)
 
 </div>
 <!--
