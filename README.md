@@ -36,17 +36,17 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> -->
 
-### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: Working as Associate developer at PW Skills (Physics Wallah)
+### About Me :
+I am a Full Stack Developer with around 2 years of coding experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- 🔭 Working as Associate developer at PW Skills (Physics Wallah)
 <!-- - :telescope: I Worked as a Teaching Assistant Intern At Coding Ninjas, Resolving Students Doubts and helping them in their projects and Other Assignments -->
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-nasikh_cl-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nasikh-cl/)
+- 📩 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-nasikh_cl-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nasikh-cl/)
 - ⚡ Fun fact: Im a Mechangical Engineer By degree
 
 <hr/>
 
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠 Languages and Tools :
 <div>
  
   <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=90&color=currentColor" alt="html"/>&nbsp;
