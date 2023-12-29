@@ -53,10 +53,11 @@ I am a Full Stack Developer with around 2 years of coding experience <img src="h
   <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=90&color=currentColor" alt="css" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="100" height="100"/>&nbsp;
   <img src="https://icongr.am/devicon/javascript-original.svg?size=90&color=currentColor" alt="javascript"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="90" alt="typescript"/>&nbsp;
   <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=90&color=currentColor" alt="node"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="vscode" width="70" height="70" />&nbsp;
-   <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=90&color=currentColor" alt="react"/>&nbsp;
-   <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=90&color=currentColor" alt="mongodb"/>
+  <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=90&color=currentColor" alt="react"/>&nbsp;
+  <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=90&color=currentColor" alt="mongodb"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"  alt="Firebase" width="90" height="90"/>&nbsp;
   <img src="https://icongr.am/devicon/git-original-wordmark.svg?size=90&color=currentColor" alt="git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg" alt="vscode" width="70" height="70" />
