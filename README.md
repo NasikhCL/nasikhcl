@@ -69,13 +69,8 @@ I am a Full Stack Developer with around 2 years of coding experience <img src="h
 
 <hr/>
 <div align="center"> 
-
   ![GitHub streak stats](https://streak-stats.demolab.com/?user=nasikhcl)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nasikhcl&theme=radical)](https://git.io/streak-stats)
-
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NasikhCL&layout=compact&theme=vision-friendly-dark)](https://github.com/NasikhCL/github-readme-stats)
-
-
  </div>
 
 <!--
